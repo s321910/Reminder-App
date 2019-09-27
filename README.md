@@ -1,1 +1,1 @@
-# Reminder-App
+# Reminder-prototype
